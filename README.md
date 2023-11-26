@@ -17,22 +17,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-# book_app
+# Messaging-App
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 <!DOCTYPE html>
@@ -49,11 +37,8 @@ samples, guidance on mobile development, and a full API reference.
                <img src="https://github.com/Obvinous/Messaging-App/assets/140268164/041395b8-4711-4b84-8746-8204fd13289d" 
          width="350" height="500">
             </td>
-          
-        </tr>
-       
-      
-    </table>
+               </tr>    
+      </table>
 </body>
 </html>
 

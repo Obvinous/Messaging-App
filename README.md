@@ -47,7 +47,7 @@ samples, guidance on mobile development, and a full API reference.
          width="350" height="500">
             </td>
             <td>
-               <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/4fa75bde-d3ca-4352-8aa9-5e1afd78f13f" 
+               <img src="https://github.com/Obvinous/Messaging-App/assets/140268164/041395b8-4711-4b84-8746-8204fd13289d" 
          width="350" height="500">
             </td>
             <td>

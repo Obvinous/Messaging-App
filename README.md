@@ -43,7 +43,7 @@ samples, guidance on mobile development, and a full API reference.
     <table>
         <tr>
             <td>
-                <img src="![Screenshot_20231126_215232](https://github.com/Obvinous/Messaging-App/assets/140268164/71c6551f-5fb5-4bb6-af3c-92de8e30977f)" 
+                <img src="https://github.com/Obvinous/Messaging-App/assets/140268164/71c6551f-5fb5-4bb6-af3c-92de8e30977f)" 
          width="350" height="500">
             </td>
             <td>

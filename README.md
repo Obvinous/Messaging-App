@@ -10,7 +10,7 @@
          width="280" height="600">
             </td>
             <td>
-               <img src="https://github.com/Obvinous/Messaging-App/assets/140268164/41aae7d9-0984-4c8a-9ffd-257b9f5beb64" 
+               <img src="https://github.com/Obvinous/Messaging-App/assets/140268164/041395b8-4711-4b84-8746-8204fd13289d" 
          width="280" height="600">
             </td>
                </tr>    
@@ -19,9 +19,13 @@
 </html>
 
 
-https://github.com/Obvinous/Messaging-App/assets/140268164/041395b8-4711-4b84-8746-8204fd13289d
+
 
          
+
+
+
+https://github.com/Obvinous/Messaging-App/assets/140268164/1d888ba6-6d11-497c-8418-dc50b6da4964
 
 
 
